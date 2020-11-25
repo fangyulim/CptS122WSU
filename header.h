@@ -1,9 +1,7 @@
 /****************************************************************
 *Programmer: Fang Yu Lim                                        *
-*Programming Assignment: CptS122 PA4                            *
 * Date: Oct12,2020                                              *
 * Description: Hunt the Wumpus Game                             *
-*                                                               *
 ***************************************************************/
 #include <iostream>
 #include <cstdlib>
